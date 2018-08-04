@@ -1,0 +1,32 @@
+.button {
+    -fx-background-color: transparent;
+}
+
+
+#file {
+    -fx-background-image: url("../Pictures/file.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#play {
+    -fx-background-image: url("../Pictures/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#pause {
+    -fx-background-image: url("../Pictures/pause.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#stop {
+    -fx-background-image: url("../Pictures/stop.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
